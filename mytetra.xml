@@ -3163,7 +3163,6 @@
    <node crypt="" id="819" name="Линус Торвальдс">
     <recordtable>
      <record id="821" name="О мобильном телефоне" author="Линус Торвальдс" url="" tags="человек, технологии" ctime="20090208160154" dir="0000000745" file="text.html" block=""/>
-     <record id="822" name="О компьютерах" author="Линус Торвальдс" url="" tags="" ctime="20090208160154" dir="0000000746" file="text.html"/>
      <record id="823" name="Про цены на книги" author="Линус Торвальдс" url="" tags="" ctime="20090208160154" dir="0000000747" file="text.html"/>
      <record id="820" name="Про GPL и авторские права" author="Линус Торвальдс" url="" tags="" ctime="20090208160153" dir="0000000744" file="text.html"/>
      <record id="838" name="Про современный путь развития технологий" author="Линус Торвальдс" url="" tags="" ctime="20090212182825" dir="0000000759" file="text.html"/>
@@ -4101,6 +4100,7 @@
    <recordtable>
     <record id="4138" name="Конкурс «Будущее IT пишется здесь» (Intel)" author="" url="http://ru.intel.com/business/community/index.php?automodule=blog&amp;blogid=7707&amp;showentry=2103" tags="" ctime="20110306213320" dir="0000003437" file="text.html"/>
     <record id="1441013671sh3g618pxx" name="Конкурс на название нового пилотируемого транспортного корабля (ПТК НП)" author="" url="http://gagarin.energia.ru/konkurs-ptk-np.html" tags="" ctime="20150831123431" dir="1441013671vc6ro26jmk" file="text.html" crypt="0"/>
+    <record id="822" name="О компьютерах" author="Линус Торвальдс" url="" tags="" ctime="20181203081628" dir="0000000746" file="text.html"/>
    </recordtable>
   </node>
  </content>
